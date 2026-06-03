@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hello, I'm DreamLongYT 🚀
 
-<!--
-**DreamLongYT/DreamLongYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding-brightgreen?style=for-the-badge&logo=visual-studio-code" alt="Status" />
+  <img src="https://img.shields.io/badge/Role-Developer-blue?style=for-the-badge" alt="Role" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DreamLongYT&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👤 About Me
+
+- 🔭 **Current Focus:** Building clean, functional projects.
+- 🌱 **Learning Journey:** Constantly refining my logic and trying out efficient workflows.
+- 💬 **Languages I Speak:** 
+  - 🇩🇪 German (Native/Fluent)
+  - 🇻🇳 Vietnamese (Fluent)
+  - 🇬🇧 English (Fluent)
+  - 🇫🇷 French (Basic/Learning)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Core Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DreamLongYT&show_icons=true&theme=radial&hide_border=true" alt="DreamLongYT's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamLongYT&theme=radial&hide_border=true" alt="DreamLongYT's Streak Stats" />
+</p>
