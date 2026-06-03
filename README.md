@@ -43,9 +43,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DreamLongYT&show_icons=true&theme=radial&hide_border=true" alt="DreamLongYT's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamLongYT&theme=radial&hide_border=true" alt="DreamLongYT's Streak Stats" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DreamLongYT&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
   <br />
   <!-- Alternative Activity Graph if the top card keeps failing -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamLongYT&theme=react-dark" alt="DreamLongYT's Activity Graph" />
