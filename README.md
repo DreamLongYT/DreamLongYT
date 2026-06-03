@@ -46,4 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DreamLongYT&show_icons=true&theme=radial&hide_border=true" alt="DreamLongYT's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamLongYT&theme=radial&hide_border=true" alt="DreamLongYT's Streak Stats" />
+  <br />
+  <!-- Alternative Activity Graph if the top card keeps failing -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamLongYT&theme=react-dark" alt="DreamLongYT's Activity Graph" />
 </p>
+
