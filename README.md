@@ -42,9 +42,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DreamLongYT&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DreamLongYT&theme=github-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamLongYT&theme=react-dark" alt="DreamLongYT's Activity Graph" />
 </p>
