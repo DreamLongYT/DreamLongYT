@@ -16,10 +16,10 @@
 - 🔭 **Current Focus:** Building clean, functional projects.
 - 🌱 **Learning Journey:** Constantly refining my logic and trying out efficient workflows.
 - 💬 **Languages I Speak:** 
-  - 🇩🇪 German (Native/Fluent)
-  - 🇻🇳 Vietnamese (Fluent)
-  - 🇬🇧 English (Fluent)
-  - 🇫🇷 French (Basic/Learning)
+  - 🇩🇪 German
+  - 🇻🇳 Vietnamese
+  - 🇬🇧 English
+  - 🇫🇷 French (Learning)
 
 ---
 
